@@ -11,9 +11,9 @@ source /scratch/cs534/rameez/bin/activate
 
 To run:
 
-  Part1. python3 part1.py 15
+  Part1. python3 part1.py 
 
-  Part2. python3 part2.py 15
+  Part2. python3 part2.py 
       
   Part3. python3 part3.py
 	
