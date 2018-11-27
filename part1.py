@@ -1,5 +1,0 @@
-"""
-implementation of decsion tree
-
-
-"""
